@@ -9,15 +9,3 @@ react-usekit is a developer-friendly CLI that lets you install reusable React ho
 
 > ⚡ Drop-in React hooks and utility functions — zero boilerplate.
 
----
-
-# ✨ Features
-
-- ✅ Collection of reusable, production-ready React hooks
-- 🔁 Optimized utility functions for state, effects, events, and more
-- 💡 Written in TypeScript with full IntelliSense support
-- 🪶 Lightweight and tree-shakable
-- 🛠️ Zero dependencies (or minimal, if any)
-
----
-

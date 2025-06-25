@@ -17,6 +17,7 @@ export default defineConfig({
         items: [
           { text: 'What is ReactUsekit?', link: '/what-is-reactusekit' },
           { text: 'Why ReactUsekit?', link: '/why-reactusekit' },
+          { text: 'Getting Started', link: '/getting-started' },
         ]
       },
       {
@@ -32,7 +33,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/brijeshkumaryadav16/react-usekit' }
     ]
   }
 })
