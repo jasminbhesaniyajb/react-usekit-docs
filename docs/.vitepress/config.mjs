@@ -20,9 +20,9 @@ export default defineConfig({
           { text: 'Getting Started', link: '/getting-started' },
         ]
       },
-      {
-        text: '⚙️ Configuration',
-      },
+      // {
+      //   text: '⚙️ Configuration',
+      // },
       {
         text: '🧩 Hooks',
       },
