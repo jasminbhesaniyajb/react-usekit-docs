@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "react-usekit"
-  text: ""
-  tagline: react-usekit is a developer-friendly CLI that lets you install reusable React hooks and JavaScript/TypeScript utility functions into your project with a single command.
+  name: "ReactUsekit"
+  text: "Save time writing common logic."
+  tagline: Build and install reusable React hooks and utilities with a single command. Open Source. Open Code.
+  image:
+    src: /assets/react.png
+    alt: ReactUsekit
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /what-is-reactusekit
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View on Github
+      link: https://github.com/brijeshkumaryadav16/react-usekit
+      target: _blank
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Headless
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
