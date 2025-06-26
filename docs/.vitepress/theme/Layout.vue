@@ -1,6 +1,6 @@
 <template>
   <DefaultTheme.Layout>
-    <template #home-hero-after>
+    <template #home-features-after>
       <div class="team-section">
         <h2 class="team-heading">🙌 Credits</h2>
         <VPTeamMembers size="small" :members="members" />
