@@ -34,6 +34,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/brijeshkumaryadav16/react-usekit' }
-    ]
+    ],
+
+    footer: {
+      message: 'Released under the MIT License.',
+      // copyright: 'Copyright © 2019-present Evan You'
+    }
   }
 })
